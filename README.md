@@ -5,9 +5,9 @@
 ### employee-management-system is Frontend File
 * Install nodeJs
 * And open cmd install angular
-* node -v  // version of nodeJs
-* npm -v
-* ng -v   // angular components
+* node -v  // checking for nodeJs version
+* npm -v   // Node Package Manager version
+* ng -v   // it show's Available Commands
 * ng --version // angular version
 * ng new employee-management-system
 * ng g c components\employee-list // 'g' means generate and 'c' means component || components is folder
