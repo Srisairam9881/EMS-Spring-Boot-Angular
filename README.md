@@ -23,4 +23,5 @@
 ## employee-details
 ![Screenshot (21)](https://user-images.githubusercontent.com/80576654/165760613-f8dc6ee6-1a94-4e79-a396-618571a3d1ff.png)
 
-
+## delete-employee
+![Screenshot (9)](https://user-images.githubusercontent.com/80576654/165759804-39f55421-dd3a-4ed2-89b9-06e1953d7393.png)
