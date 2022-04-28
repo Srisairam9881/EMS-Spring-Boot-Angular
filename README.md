@@ -16,6 +16,7 @@
 * ng g s Service\employee // 's' means service
 * ng g c components\update-employee
 * ng g c components\employee-details
+* Here I used bootstrap5
 ##
 ## employee-list
 ![Screenshot (9)](https://user-images.githubusercontent.com/80576654/165759804-39f55421-dd3a-4ed2-89b9-06e1953d7393.png)
