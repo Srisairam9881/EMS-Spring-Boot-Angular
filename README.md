@@ -3,6 +3,13 @@
 ### Employee-mangement-system-Angular is Backend File
 ##
 ### employee-management-system is Frontend File
+* ng new employee-management-system
+* ng g c components\employee-list // 'g' means generate and 'c' means component || components is folder
+* ng g class employee\ClassEmployee // class is model
+* ng g c components\create-employee
+* ng g s Service\employee // 's' means service
+* ng g c components\update-employee
+* ng g c components\employee-details
 ##
 ## employee-list
 ![Screenshot (9)](https://user-images.githubusercontent.com/80576654/165759804-39f55421-dd3a-4ed2-89b9-06e1953d7393.png)
