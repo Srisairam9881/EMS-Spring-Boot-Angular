@@ -3,6 +3,12 @@
 ### Employee-mangement-system-Angular is Backend File
 ##
 ### employee-management-system is Frontend File
+* Install nodeJs
+* And open cmd install angular
+* node -v  // version of nodeJs
+* npm -v
+* ng -v   // angular components
+* ng --version // angular version
 * ng new employee-management-system
 * ng g c components\employee-list // 'g' means generate and 'c' means component || components is folder
 * ng g class employee\ClassEmployee // class is model
