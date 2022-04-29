@@ -29,15 +29,18 @@
 * After Add the record <b>It redirect into employee-list</b>
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/80576654/165760200-26d7d2c9-c8f9-4333-925e-89b85e81f513.png)
+##
 
 ## update-employee
 ![Screenshot (17)](https://user-images.githubusercontent.com/80576654/165760308-c0e3d273-5f6a-4452-ae11-e95d51b29a3a.png)
 
 * After Update the record <b>It redirect into employee-list</b>
 ![Screenshot (19)](https://user-images.githubusercontent.com/80576654/165760512-b226d369-5cd7-48f7-99d5-ae5647a94bc7.png)
+##
 
 ## employee-details
 ![Screenshot (21)](https://user-images.githubusercontent.com/80576654/165760613-f8dc6ee6-1a94-4e79-a396-618571a3d1ff.png)
+##
 
 ## delete-employee
 ![Screenshot (9)](https://user-images.githubusercontent.com/80576654/165759804-39f55421-dd3a-4ed2-89b9-06e1953d7393.png)
